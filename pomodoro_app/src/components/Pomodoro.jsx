@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { Container, Typography, Box } from '@mui/material';
-import TimerDisplay from './TimerDisplay.jsx';
 import ControlButtons from './ControlButtons.jsx';
 import CircularCountdown from './CircularCountDown.jsx';
 
